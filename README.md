@@ -82,7 +82,8 @@ plt.title("Customer Segments")
 ![output](./plot.png)
 ### K-Means:
 ![kmeans](https://user-images.githubusercontent.com/94170892/204611896-7fba8418-f994-47a2-bbf4-cd9f00e530ca.jpg)
-
+### Y_pred:
+![o10](https://user-images.githubusercontent.com/94170892/204843165-79915eb8-5dd4-4191-a8d3-c7cbd6cbe462.png)
 ### Cluster:
 ![output](./cluster.png)
 
